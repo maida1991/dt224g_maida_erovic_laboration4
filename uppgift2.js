@@ -1,5 +1,4 @@
-/* Lösning till Uppgift 2 – operatorer och beräkningar.
-   Skriven av Maida Erovic, 2026. */
+// Lösning till Uppgift 2 – operatorer och beräkningar
 
 "use strict";
 
