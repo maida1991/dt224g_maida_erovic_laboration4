@@ -2,8 +2,10 @@
 
 "use strict";
 
+// Variabeln innehåller åldern som ska kontrolleras
 const age = 35;
 
+// Ett villkor avgör vilken åldersgrupp personen tillhör ålder som vi sätta in i variabeln age
 if (age < 18) {
     console.log("Barn");
 } else if (age <= 64) {
