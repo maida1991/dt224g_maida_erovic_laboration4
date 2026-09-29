@@ -1,4 +1,5 @@
-// Uppgift 5
+/* Lösning till Uppgift 5 – array.
+   Skriven av Maida Erovic, 2026. */
 
 "use strict";
 

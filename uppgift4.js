@@ -1,4 +1,5 @@
-// Uppgift 4
+/* Lösning till Uppgift 4 – loop.
+   Skriven av Maida Erovic, 2026. */
 
 "use strict";
 

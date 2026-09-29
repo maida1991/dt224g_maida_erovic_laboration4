@@ -1,4 +1,5 @@
-// Uppgift 1
+/* Lösning till Uppgift 1 – variabler.
+   Skriven av Maida Erovic, 2026. */
 
 "use strict";
 

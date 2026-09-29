@@ -1,3 +1,6 @@
+/* Lösning till Uppgift 7 – array och funktion.
+   Skriven av Maida Erovic, 2026. */
+
 "use strict";
 
 // En array med sex tal

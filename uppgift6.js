@@ -1,3 +1,6 @@
+/* Lösning till Uppgift 6 – funktion.
+   Skriven av Maida Erovic, 2026. */
+
 "use strict";
 
 // Funktionen beräknar arean av en rektangel baserat på bredd och höjd

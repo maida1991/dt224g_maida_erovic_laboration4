@@ -1,4 +1,5 @@
-// Uppgift 2
+/* Lösning till Uppgift 2 – beräkning av pris inklusive moms.
+   Skriven av Maida Erovic, 2026. */
 
 "use strict";
 
