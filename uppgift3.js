@@ -1,4 +1,5 @@
-//Uppgift 3
+/* Lösning till Uppgift 3 – villkor.
+   Skriven av Maida Erovic, 2026. */
 
 "use strict";
 
