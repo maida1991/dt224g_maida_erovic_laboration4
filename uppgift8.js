@@ -1,3 +1,6 @@
+/* Lösning till Uppgift 8 – objekt.
+   Skriven av Maida Erovic, 2026. */
+
 "use strict";
 
 // Ett objekt som innehåller information om en bok.
